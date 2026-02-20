@@ -41,5 +41,5 @@ My research interests include asset pricing, international finance, trade and ma
 
 ### Non-work stuff with llm 
 
-- [**podcast-go**](https://github.com/eloualiche/podcast-go) — A TUI podcast downloader for Apple Podcasts, built with Go and Bubble Tea
+- [**podcast-go**](https://github.com/eloualiche/podcast-go) — A TUI podcast downloader for Apple Podcasts, built with Go and Bubble Tea (vibe coded)
 
