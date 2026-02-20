@@ -24,11 +24,12 @@ My research interests include asset pricing, international finance, trade and ma
 
 ### [LouLouLibs](https://github.com/LouLouLibs)
 
-- [**FinanceRoutines.jl**](https://github.com/LouLouLibs/FinanceRoutines.jl) — Finance routines for Julia
-- [**TigerFetch.jl**](https://github.com/LouLouLibs/TigerFetch.jl) — Fetch U.S. Census TIGER shapefiles in Julia
-- [**BazerData.jl**](https://github.com/LouLouLibs/BazerData.jl) — Data utilities for Julia
-- [**BazerUtils.jl**](https://github.com/LouLouLibs/BazerUtils.jl) — General utilities for Julia
-- [**NickelEval**](https://github.com/LouLouLibs/NickelEval) — Julia FFI bindings for Nickel configuration language
+- [**FinanceRoutines.jl**](https://github.com/LouLouLibs/FinanceRoutines.jl) — Import CRSP, Compustat, Fama-French factors, GSW yield curves; estimate betas
+- [**wrds-download**](https://github.com/LouLouLibs/wrds-download) — TUI/CLI to browse and download WRDS data (Go, cross-platform)
+- [**BazerData.jl**](https://github.com/LouLouLibs/BazerData.jl) — `tabulate`, `xtile`, `winsorize`, `panel_fill`, `tlag`/`tlead` for DataFrames.jl
+- [**TigerFetch.jl**](https://github.com/LouLouLibs/TigerFetch.jl) — Download US Census TIGER/Line shapefiles
+- [**NickelEval**](https://github.com/LouLouLibs/NickelEval) — Julia FFI bindings for the Nickel configuration language
+- [**BazerUtils.jl**](https://github.com/LouLouLibs/BazerUtils.jl) — Configurable logger with per-level file output and module filtering
 
 
 ### Older Stuff
